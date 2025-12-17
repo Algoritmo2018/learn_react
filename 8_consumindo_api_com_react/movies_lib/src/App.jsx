@@ -1,11 +1,14 @@
 import './App.css'
 
-function App() { 
+function App() {
   return (
     <>
-      <div> 
+      <div className="App">
+        <nav id="navbar">
+          
+        </nav>
         <h2>Movies lib</h2>
-      </div> 
+      </div>
     </>
   )
 }
